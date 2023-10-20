@@ -1,3 +1,4 @@
+# Packaged version of Grounded-SAM to be used in LabelMaker
 ![](./assets/Grounded-SAM_logo.png)
 
 # Grounded-Segment-Anything
